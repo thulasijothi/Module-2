@@ -1,17 +1,22 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
-To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
+Write a python program to convert the decimal number to binary number using built in functions.
 
 ## 🧠 Algorithm
-1. Assign the value `16` to a variable `a`.
-2. Use the built-in `bin()` function to convert the number to binary.
-3. Print the result.
+1.Start the program.
+2.Read a decimal number from the user.
+3.Use the built-in bin() function to convert the decimal number into a binary string.
+4.Print the binary representation.
+5.End the program.
 
 ## 🧾 Program
-
-Add Code Here
+x=int(input())
+y=bin(x)
+print(y)
 
 ## Output
+![image](https://github.com/user-attachments/assets/3a57dcfb-f12b-4268-b7b2-eb43cf5d704b)
 
 ## Result
+This program to convert the decimal number to binary number using built in functions is successfully executed.
